@@ -1,0 +1,64 @@
+
+
+Skip Step 3
+Type in Go like step 4 says, but don't do anything else
+Step 5: IF you have a big white blinking cursor on a blank line at the bottom (underneath all the "Public" stuff)
+
+ONLY click the T to insert the text
+Follow step 6
+
+
+
+w
+
+
+= must do this: Vim is a text editor: 1985  Word
+ 
+ 
+= both optional & a little pointless
+_  Press i to insert
+ 
+ 
+I Very Important to add this at
+		the end. Do not replace any  existing text.
+	w = write file = save fore
+	q = quit Vim, go back to command prompt
+
+kiddos
+
+a
+
+address bar
+
+Configure file permissions step 2
+
+
+
+
+
+
+
+Step 2
+Delete out the text in the address bar
+Type in \\SMB10
+This should work
+
+Step 3
+Double click collab folder or type in
+\\SMB10\collab 
+This should not work because Sam does not have permissions for this folder
+
+Step 4
+If you don't sign out of Sam's account you may have to restart PC10 later if there is an error on PC10
+
+To sign out:
+	1. Click Windows button
+	2. Right click account icon
+	3. Choose Sign-out
+
+
+
+Step 10: select modify
+
+
+
